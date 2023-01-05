@@ -14,6 +14,6 @@ public class Practice {
 	String concat = s.concat(s1);
 	System.out.println(concat);
 	System.out.println(System.identityHashCode(concat));
-	
+	System.out.println(s1);
 	}
 }
